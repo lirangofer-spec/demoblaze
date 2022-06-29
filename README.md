@@ -5,7 +5,7 @@
 pip3 install requirements.txt
 ```
 
-### Create credentials on demoblade:
+### Create credentials on demoblaze:
 * Register to https://www.demoblaze.com/index.html <br />
 * Keep username and password
 
@@ -14,4 +14,7 @@ Define username and password:
 ```
 username = "{}"
 password = "{}"
+
 ```
+### Precondition between test rerun:
+Before rerun the test, empty the shppoing cart.
