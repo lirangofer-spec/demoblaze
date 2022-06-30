@@ -14,6 +14,7 @@ Define username and password:
 ```
 username = "{}"
 password = "{}"
+cookie = "{}"
 
 ```
 ### Precondition between test rerun:
